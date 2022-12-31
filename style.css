@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 181,181);
+    }
+
+header{
+    
+    background-image: url("post1.png");
+    background-size: 100%;
+    padding-bottom: 800px;
+}
+
+.content {
+    max-width: 100%;
+    margin: auto;
+    /* text-align: center; */
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+    margin: 0 auto;
+}
+
+.table-jadwal{
+    text-align: center;
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+
+tr, th, td{
+    padding: 5px;
+}
+
+.text{
+    font-family: cursive;
+}
+
+.pink2{
+    color: white;
+    background-color: rgb(255, 145, 145);
+}
+
+.pink3{
+    color:white;
+    background-color: rgb(255, 98,98);
+}
+.pink0{
+    background-color: rgb(255, 210, 210);
+}
+.hobi{
+
+    padding-left: 15px;
+}
+.white{
+    color:white;
+}
+img{
+    width: 100px;
+    height: 100%;
+    
+}
